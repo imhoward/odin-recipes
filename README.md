@@ -1,3 +1,2 @@
 # odin-recipes
-This website will host links to various recipes found online on a main 
-index page.
+This website hosts links to my favorite recipes, including pictures, ingredients, and the steps to make them.
